@@ -7,8 +7,13 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
