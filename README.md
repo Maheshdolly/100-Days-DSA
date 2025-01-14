@@ -8,6 +8,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -16,4 +17,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
