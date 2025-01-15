@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Matrix
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Greedy
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
