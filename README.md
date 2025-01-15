@@ -9,6 +9,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
