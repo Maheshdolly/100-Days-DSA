@@ -11,10 +11,12 @@
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
