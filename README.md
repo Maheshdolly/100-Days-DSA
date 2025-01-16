@@ -15,6 +15,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
