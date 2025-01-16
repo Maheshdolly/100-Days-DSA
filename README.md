@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
