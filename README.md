@@ -22,6 +22,7 @@
 | [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
 | [2048-build-array-from-permutation](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2058-concatenation-of-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
