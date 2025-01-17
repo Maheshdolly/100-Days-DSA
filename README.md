@@ -23,6 +23,7 @@
 | [2048-build-array-from-permutation](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2058-concatenation-of-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1791-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
