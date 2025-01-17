@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
 ## Matrix
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
