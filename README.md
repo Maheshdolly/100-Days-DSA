@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
 | [2048-build-array-from-permutation](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0054-spiral-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
