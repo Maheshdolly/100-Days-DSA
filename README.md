@@ -16,6 +16,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
