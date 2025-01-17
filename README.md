@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
+| [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
+| [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
