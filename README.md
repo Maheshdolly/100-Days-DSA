@@ -26,6 +26,7 @@
 | [1791-richest-customer-wealth](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1791-richest-customer-wealth) |
 | [1580-shuffle-the-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1580-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
