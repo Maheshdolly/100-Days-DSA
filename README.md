@@ -28,6 +28,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2058-concatenation-of-array) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 ## Prefix Sum
 |  |
 | ------- |
