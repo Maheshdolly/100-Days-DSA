@@ -27,6 +27,7 @@
 | [1580-shuffle-the-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1580-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,8 +90,10 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
