@@ -44,6 +44,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
