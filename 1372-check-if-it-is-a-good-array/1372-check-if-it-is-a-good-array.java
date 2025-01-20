@@ -7,9 +7,12 @@ class Solution {
         return result == 1;
     }
     private int gcd(int a , int b){
-        if(a==0)
-        return b;
-        else
+        if(a==0){
+         return b;
+        }
+        
+    else{
         return gcd(b%a,a);
+    }
     }
 }
