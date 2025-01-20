@@ -30,6 +30,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
