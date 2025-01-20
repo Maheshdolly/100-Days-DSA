@@ -29,6 +29,7 @@
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1505-create-target-array-in-the-given-order) |
+| [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
 ## Divide and Conquer
 |  |
 | ------- |
