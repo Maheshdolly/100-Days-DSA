@@ -31,6 +31,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1505-create-target-array-in-the-given-order) |
 | [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
+| [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 ## Number Theory
 |  |
 | ------- |
