@@ -32,6 +32,7 @@
 | [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
