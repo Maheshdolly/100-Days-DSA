@@ -33,6 +33,7 @@
 | [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0238-product-of-array-except-self](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1372-check-if-it-is-a-good-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
