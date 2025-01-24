@@ -34,6 +34,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [0217-contains-duplicate](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [0041-first-missing-positive](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [0217-contains-duplicate](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
