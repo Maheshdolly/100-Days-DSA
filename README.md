@@ -35,6 +35,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [0217-contains-duplicate](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0217-contains-duplicate) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0053-maximum-subarray](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
