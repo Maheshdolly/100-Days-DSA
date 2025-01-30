@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0048-rotate-image](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0048-rotate-image) |
+| [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1205-defanging-an-ip-address](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
 ## Number Theory
 |  |
 | ------- |
