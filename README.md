@@ -128,6 +128,7 @@
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
+| [1205-defanging-an-ip-address](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1205-defanging-an-ip-address) |
 ## Number Theory
 |  |
 | ------- |
