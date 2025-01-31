@@ -119,6 +119,7 @@
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [0217-contains-duplicate](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0217-contains-duplicate) |
+| [1970-sorting-the-sentence](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1899-count-items-matching-a-rule) |
 | [1205-defanging-an-ip-address](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
+| [1970-sorting-the-sentence](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1970-sorting-the-sentence) |
 ## Number Theory
 |  |
 | ------- |
