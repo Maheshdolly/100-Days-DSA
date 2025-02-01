@@ -40,6 +40,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0048-rotate-image](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0048-rotate-image) |
 | [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
 | [1970-sorting-the-sentence](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1970-sorting-the-sentence) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Number Theory
 |  |
 | ------- |
