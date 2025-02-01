@@ -126,6 +126,7 @@
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1635-number-of-good-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
 | [1970-sorting-the-sentence](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1970-sorting-the-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Number Theory
 |  |
 | ------- |
