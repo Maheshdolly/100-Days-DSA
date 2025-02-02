@@ -41,6 +41,7 @@
 | [0048-rotate-image](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0048-rotate-image) |
 | [1651-shuffle-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Matrix
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [0657-robot-return-to-origin](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0657-robot-return-to-origin) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Number Theory
 |  |
 | ------- |
