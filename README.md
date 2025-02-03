@@ -83,6 +83,7 @@
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
 ## Number Theory
 |  |
 | ------- |
