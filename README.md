@@ -82,6 +82,7 @@
 | [0189-rotate-array](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0189-rotate-array) |
 | [0075-sort-colors](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0657-robot-return-to-origin](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0657-robot-return-to-origin) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Maheshdolly/100-Days-DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
