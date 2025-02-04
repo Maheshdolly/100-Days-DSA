@@ -85,6 +85,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
 | [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
+| [0680-valid-palindrome-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
 | [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Number Theory
 |  |
 | ------- |
