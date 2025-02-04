@@ -84,6 +84,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
+| [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
+| [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
 ## Number Theory
 |  |
 | ------- |
