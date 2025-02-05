@@ -155,6 +155,7 @@
 | [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1764-maximum-repeating-substring) |
+| [0014-longest-common-prefix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0014-longest-common-prefix) |
 ## Number Theory
 |  |
 | ------- |
@@ -168,4 +169,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1764-maximum-repeating-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
