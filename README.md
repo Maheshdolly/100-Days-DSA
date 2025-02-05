@@ -75,6 +75,7 @@
 | [0055-jump-game](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0198-house-robber) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1764-maximum-repeating-substring](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1764-maximum-repeating-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0961-long-pressed-name](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0961-long-pressed-name) |
 | [0125-valid-palindrome](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1764-maximum-repeating-substring](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1764-maximum-repeating-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,4 +167,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Maheshdolly/100-Days-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/Maheshdolly/100-Days-DSA/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
